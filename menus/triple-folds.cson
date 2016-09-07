@@ -1,0 +1,14 @@
+'menu': [
+  {
+    'label': 'Packages'
+    'submenu': [
+      'label': 'Triple Folds'
+      'submenu': [
+        { 'label': 'Fold All', 'command': 'triple-folds:fold-all' },
+        { 'label': 'Unfold All', 'command': 'triple-folds:unfold-all' },
+        { 'label': 'Collapse fold', 'command': 'triple-folds:collapse-this' },
+        { 'label': 'Uncollapse fold', 'command': 'triple-folds:uncollapse-this' }
+      ]
+    ]
+  }
+]

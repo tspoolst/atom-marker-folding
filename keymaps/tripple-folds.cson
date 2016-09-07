@@ -1,3 +1,5 @@
 'atom-workspace':
   'ctrl-alt-shift-[': 'triple-folds:fold-all'
   'ctrl-alt-shift-]': 'triple-folds:unfold-all'
+  'ctrl-alt-[': 'triple-folds:collapse-this'
+  'ctrl-alt-]': 'triple-folds:uncollapse-this'
