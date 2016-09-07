@@ -1,0 +1,12 @@
+'menu': [
+  {
+    'label': 'Packages'
+    'submenu': [
+      'label': 'Tripple Folds'
+      'submenu': [
+        { 'label': 'Fold All', 'command': 'tripple-folds:fold-all' },
+        { 'label': 'Unfold All', 'command': 'tripple-folds:unfold-all' }
+      ]
+    ]
+  }
+]
