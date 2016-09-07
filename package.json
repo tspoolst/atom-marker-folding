@@ -4,17 +4,14 @@
   "version": "0.0.1",
   "description": "VIM compatible triple folds - {{{ code }}}",
   "keywords": [
-    "atom",
     "folds"
   ],
   "repository": {
     "type": "git",
     "url": "https://github.com/MomsFriendlyDevCo/atom-triple-folds"
   },
-  "activationCommands": {
-  },
   "license": "MIT",
   "engines": {
-    "atom": ">0.180.0"
+    "atom": ">=1.0.0 <2.0.0"
   }
 }
