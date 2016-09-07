@@ -1,3 +1,3 @@
 'atom-workspace':
-  'ctrl-alt-shift-[': 'tripple-folds:fold-all'
-  'ctrl-alt-shift-]': 'tripple-folds:unfold-all'
+  'ctrl-alt-shift-[': 'triple-folds:fold-all'
+  'ctrl-alt-shift-]': 'triple-folds:unfold-all'

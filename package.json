@@ -1,15 +1,15 @@
 {
-  "name": "tripple-folds",
+  "name": "triple-folds",
   "main": "./lib/index.js",
   "version": "0.0.1",
-  "description": "VIM compatible tripple folds - {{{ code }}}",
+  "description": "VIM compatible triple folds - {{{ code }}}",
   "keywords": [
     "atom",
     "folds"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/MomsFriendlyDevCo/atom-tripple-folds"
+    "url": "https://github.com/MomsFriendlyDevCo/atom-triple-folds"
   },
   "activationCommands": {
   },
