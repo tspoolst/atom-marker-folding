@@ -1,7 +1,7 @@
 {
   "name": "triple-folds",
   "main": "./lib/index.js",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "VIM compatible triple folds - {{{ code }}}",
   "keywords": [
     "folds"
