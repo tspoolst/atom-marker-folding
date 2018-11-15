@@ -30,7 +30,7 @@ The built in folding must be disabled, because it interferes with the folding op
 
 This tip was originally taken from https://jamesgecko.com/disable-code-folding-in-atom/
 
-To turn native folding off, create the file ~/.atom/init.coffee, if it does not already exist, and add this:
+To turn native folding off, create the file ~/.atom/init.coffee if it does not already exist, and add this:
 
 ```
 # Disable code folding
