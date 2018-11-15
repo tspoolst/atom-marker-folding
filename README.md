@@ -2,6 +2,9 @@ Marker-Based-Folding
 ============
 VIM and Code Browser style folding support for folds manually designated with `#[of]` and `#[cf]`.
 
+https://www.vim.org/
+http://tibleiz.net/code-browser/index.html
+
 For example the following ShellScript code would be collapsed into three folds:
 
 ```shellscript
