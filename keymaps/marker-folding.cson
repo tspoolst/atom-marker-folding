@@ -1,0 +1,5 @@
+'atom-workspace':
+  'ctrl-alt-shift-[': 'marker-folding:fold-all'
+  'ctrl-alt-shift-]': 'marker-folding:unfold-all'
+  'ctrl-alt-[': 'marker-folding:collapse-this'
+  'ctrl-alt-]': 'marker-folding:uncollapse-this'
