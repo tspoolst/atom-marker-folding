@@ -1,4 +1,4 @@
-Marker-Based-Folding
+Marker-Folding
 ============
 VIM and Code Browser style folding support for folds manually designated with `#[of]` and `#[cf]`.
 
