@@ -23,6 +23,20 @@ For example the following ShellScript code would be collapsed into three folds:
 
 ```
 
+Getting this to work
+----
+
+The built in folding must be disabled, because it interferes with this package.
+
+This tip was originally taken from https://jamesgecko.com/disable-code-folding-in-atom/
+
+To turn folding off, create the file ~/.atom/init.coffee, if it does not already exist, and add this:
+
+```
+# Disable code folding
+{TextEditor} = require('atom')
+TextEditor.prototype.isFoldableAtBufferRow = -> false
+```
 
 Keys
 ----
