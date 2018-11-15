@@ -2,7 +2,7 @@
   {
     'label': 'Packages'
     'submenu': [
-      'label': 'Triple Folds'
+      'label': 'Marker Folding'
       'submenu': [
         { 'label': 'Fold All', 'command': 'triple-folds:fold-all' },
         { 'label': 'Unfold All', 'command': 'triple-folds:unfold-all' },
