@@ -1,22 +1,23 @@
-Triple-Folds
+Marker-Based-Folding
 ============
-VIM style folding support for folds manually designated with `{{{` and `}}}`.
+VIM and Code Browser style folding support for folds manually designated with `#[of]` and `#[cf]`.
 
 For example the following JavaScript code would be collapsed into three folds:
 
 ```javascript
-// This does something {{{
-// ... Bit of code here ...
-// }}}
-// This does something else {{{
-// ... Bit more code here ...
-// }}}
-// This does yet another thing {{{
-// ... Bit more code here ...
-// And can be recursive {{{
-// ... Bit more code here ...
-// }}}
-// }}}
+#[of]: This does something
+# ... Bit of code here ...
+#[cf]
+#[of]: This does something else
+# ... Bit more code here ...
+#[cf]
+#[of]: This does yet another thing
+# ... Bit more code here ...
+#[of]: And can be recursive
+# ... Bit more code here ...
+#[cf]
+#[cf]
+
 ```
 
 
