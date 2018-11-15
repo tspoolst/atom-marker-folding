@@ -1,14 +1,14 @@
 {
-  "name": "triple-folds",
+  "name": "marker-based-folding",
   "main": "./lib/index.js",
-  "version": "0.1.2",
-  "description": "VIM compatible triple folds - {{{ code }}}",
+  "version": "0.2.0",
+  "description": "atom package to handle VIM and Code Browser compatible marker based folding",
   "keywords": [
     "folds"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/MomsFriendlyDevCo/atom-triple-folds"
+    "url": "https://github.com/tspoolst/atom-marker-folding"
   },
   "license": "MIT",
   "engines": {
