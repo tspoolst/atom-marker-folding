@@ -47,3 +47,13 @@ Keys
 | `ctrl+alt+shift+]` | **Unfold all** - Remove all folding from the entire document      |
 | `ctrl+alt+[`       | **Collapse current** - fold the surrounding area                  |
 | `ctrl+alt+[`       | **Uncollapse current** - remove folding from the surrounding area |
+
+Manual Install
+----
+download this repo as a zip file.
+```
+cd ~/.atom/packages/
+unzip ~/Downloads/atom-marker-folding-master.zip
+mv atom-marker-folding-master/ marker-based-folding
+```
+exit and reload atom.
