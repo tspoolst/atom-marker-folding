@@ -57,3 +57,8 @@ unzip ~/Downloads/atom-marker-folding-master.zip
 mv atom-marker-folding-master/ marker-based-folding
 ```
 exit and reload atom.
+
+Todo/Bugs
+----
+doesn't always do a fold_all when a new TextEditor tab is loaded.
+folding a singular nested fold doesn't work.  to refold everything properly a fold_all must be called.
