@@ -4,7 +4,7 @@ VIM and Code Browser style folding support for folds manually designated with `#
 
 For example the following ShellScript code would be collapsed into three folds:
 
-```javascript
+```shellscript
 #[of]: This does something
 # ... Bit of code here ...
 #[cf]
