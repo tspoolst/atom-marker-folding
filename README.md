@@ -26,7 +26,7 @@ For example the following ShellScript code would be collapsed into three folds:
 Getting this to work
 ----
 
-The built in folding must be disabled, because it interferes with this package.
+The built in folding must be disabled, because it interferes with the folding operations.
 
 This tip was originally taken from https://jamesgecko.com/disable-code-folding-in-atom/
 
