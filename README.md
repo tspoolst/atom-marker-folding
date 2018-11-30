@@ -46,7 +46,7 @@ Keys
 | `ctrl+alt+shift+[` | **Fold all** - Apply folding to the entire document               |
 | `ctrl+alt+shift+]` | **Unfold all** - Remove all folding from the entire document      |
 | `ctrl+alt+[`       | **Collapse current** - fold the surrounding area                  |
-| `ctrl+alt+[`       | **Uncollapse current** - remove folding from the surrounding area |
+| `ctrl+alt+]`       | **Uncollapse current** - remove folding from the surrounding area |
 
 Manual Install
 ----
@@ -60,5 +60,6 @@ exit and reload atom.
 
 Todo/Bugs
 ----
-doesn't always do a fold_all when a new TextEditor tab is loaded.
-folding a singular nested fold doesn't work.  to refold everything properly a fold_all must be called.
+* doesn't always do a fold_all when a new TextEditor tab is loaded.
+* both collaps/uncollaps current do not work correctly.  use the mouse to open folds.
+* collapsing a singular nested fold doesn't work.  to refold everything properly a fold_all must be called.
