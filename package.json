@@ -1,7 +1,7 @@
 {
   "name": "marker-folding",
   "main": "./lib/index.js",
-  "version": "0.2.0",
+  "version": "1.0.0",
   "description": "atom package to handle VIM and Code Browser compatible marker based folding",
   "keywords": [
     "folds"
