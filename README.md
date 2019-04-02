@@ -43,10 +43,10 @@ Keys
 
 | Key                | Function                                                          |
 |--------------------|-------------------------------------------------------------------|
-| `ctrl+alt+shift+[` | **Fold all** - Apply folding to the entire document               |
-| `ctrl+alt+shift+]` | **Unfold all** - Remove all folding from the entire document      |
-| `ctrl+alt+[`       | **Collapse current** - fold the surrounding area                  |
-| `ctrl+alt+]`       | **Uncollapse current** - remove folding from the surrounding area |
+| `ctrl+alt+shift+6` | **Fold all** - Apply folding to the entire document               |
+| `ctrl+alt+shift+7` | **Unfold all** - Remove all folding from the entire document      |
+| `ctrl+alt+6`       | **Collapse current** - fold the surrounding area                  |
+| `ctrl+alt+7`       | **Uncollapse current** - remove folding from the surrounding area |
 
 Manual Install
 ----
