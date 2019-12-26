@@ -18,6 +18,7 @@ regardless, "zf" isn't strictly needed as the tags can be typed in manually.
 # some useful vim commands for viewing folds are:  
 {right arrow|sometimes left arrow|zo} open fold  
 zc close fold  
+zR open all folds  
 zM close all folds  
 http://vimdoc.sourceforge.net/htmldoc/fold.html#Folding
 
